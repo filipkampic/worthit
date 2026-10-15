@@ -22,6 +22,26 @@ https://worthit-fk.netlify.app
 - Save products for later
 - Responsive design
 
+## Screenshots
+
+## Screenshots
+
+| Home | 
+| :---: | 
+| <img src="screenshots/home.png" width="480" alt="Home"/> |
+
+| Explore |
+| :---: |
+| <img src="screenshots/explore.png" width="480" alt="Explore"/> | 
+
+| Add Product | 
+| :---: |
+| <img src="screenshots/add-product.png" width="480" alt="Add Product"/> | 
+
+| Product Info |
+| :---: | 
+| <img src="screenshots/product-info.png" width="480" alt="Product Info"/> |
+
 ## Author
 
 Filip Kampić  
