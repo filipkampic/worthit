@@ -24,8 +24,6 @@ https://worthit-fk.netlify.app
 
 ## Screenshots
 
-## Screenshots
-
 | Home | 
 | :---: | 
 | <img src="screenshots/home.png" width="480" alt="Home"/> |
